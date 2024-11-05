@@ -1,0 +1,27 @@
+2024/11/05-14:08:00.068 2da8 Reusing MANIFEST C:\Users\binck\Desktop\Bot-barbearia-Python-main\pasta\sessao\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/05-14:08:00.073 2da8 Recovering log #1914
+2024/11/05-14:08:00.658 2da8 Reusing old log C:\Users\binck\Desktop\Bot-barbearia-Python-main\pasta\sessao\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001914.log 
+2024/11/05-14:08:07.798 2e2c Level-0 table #1926: started
+2024/11/05-14:08:07.853 2e2c Level-0 table #1926: 341182 bytes OK
+2024/11/05-14:08:07.876 2e2c Delete type=0 #1914
+2024/11/05-14:08:07.894 1af8 Manual compaction at level-0 from ' \x0d\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x0e\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/05-14:08:08.204 2e2c Compacting 1@1 + 8@2 files
+2024/11/05-14:08:08.699 2e2c Generated table #1927@1: 85659 keys, 2235157 bytes
+2024/11/05-14:08:09.235 2e2c Generated table #1928@1: 96976 keys, 2248624 bytes
+2024/11/05-14:08:09.757 2e2c Generated table #1929@1: 97847 keys, 2270289 bytes
+2024/11/05-14:08:10.029 2e2c Generated table #1930@1: 15221 keys, 2457940 bytes
+2024/11/05-14:08:10.327 2e2c Generated table #1931@1: 10981 keys, 2171028 bytes
+2024/11/05-14:08:10.730 2e2c Generated table #1932@1: 28175 keys, 2211011 bytes
+2024/11/05-14:08:11.216 2e2c Generated table #1933@1: 68665 keys, 2212260 bytes
+2024/11/05-14:08:11.480 2e2c Generated table #1934@1: 49162 keys, 1009667 bytes
+2024/11/05-14:08:11.481 2e2c Compacted 1@1 + 8@2 files => 16815976 bytes
+2024/11/05-14:08:11.483 2e2c compacted to: files[ 0 0 8 0 0 0 0 ]
+2024/11/05-14:08:11.485 2e2c Delete type=2 #1916
+2024/11/05-14:08:11.486 2e2c Delete type=2 #1917
+2024/11/05-14:08:11.486 2e2c Delete type=2 #1918
+2024/11/05-14:08:11.487 2e2c Delete type=2 #1919
+2024/11/05-14:08:11.488 2e2c Delete type=2 #1920
+2024/11/05-14:08:11.488 2e2c Delete type=2 #1921
+2024/11/05-14:08:11.489 2e2c Delete type=2 #1922
+2024/11/05-14:08:11.489 2e2c Delete type=2 #1923
+2024/11/05-14:08:11.489 2e2c Delete type=2 #1926

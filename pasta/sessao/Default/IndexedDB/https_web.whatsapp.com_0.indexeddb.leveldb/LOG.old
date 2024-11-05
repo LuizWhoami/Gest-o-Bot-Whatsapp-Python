@@ -1,0 +1,27 @@
+2024/11/05-12:09:37.529 b4c Reusing MANIFEST C:\Users\binck\Desktop\Bot-barbearia-Python-main\pasta\sessao\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/05-12:09:37.534 b4c Recovering log #1903
+2024/11/05-12:09:37.645 b4c Reusing old log C:\Users\binck\Desktop\Bot-barbearia-Python-main\pasta\sessao\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001903.log 
+2024/11/05-12:09:40.066 1ccc Level-0 table #1915: started
+2024/11/05-12:09:40.103 1ccc Level-0 table #1915: 387774 bytes OK
+2024/11/05-12:09:40.106 1ccc Delete type=0 #1903
+2024/11/05-12:09:40.108 1ccc Manual compaction at level-0 from ' \x0c\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x0d\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/05-12:09:40.476 b4c Compacting 1@1 + 8@2 files
+2024/11/05-12:09:40.918 b4c Generated table #1916@1: 85347 keys, 2234128 bytes
+2024/11/05-12:09:41.380 b4c Generated table #1917@1: 97004 keys, 2248321 bytes
+2024/11/05-12:09:41.765 b4c Generated table #1918@1: 97106 keys, 2273710 bytes
+2024/11/05-12:09:42.006 b4c Generated table #1919@1: 15218 keys, 2456005 bytes
+2024/11/05-12:09:42.200 b4c Generated table #1920@1: 11483 keys, 2172014 bytes
+2024/11/05-12:09:42.477 b4c Generated table #1921@1: 27603 keys, 2206869 bytes
+2024/11/05-12:09:42.858 b4c Generated table #1922@1: 69895 keys, 2214113 bytes
+2024/11/05-12:09:43.117 b4c Generated table #1923@1: 47861 keys, 982642 bytes
+2024/11/05-12:09:43.118 b4c Compacted 1@1 + 8@2 files => 16787802 bytes
+2024/11/05-12:09:43.120 b4c compacted to: files[ 0 0 8 0 0 0 0 ]
+2024/11/05-12:09:43.121 b4c Delete type=2 #1905
+2024/11/05-12:09:43.122 b4c Delete type=2 #1906
+2024/11/05-12:09:43.122 b4c Delete type=2 #1907
+2024/11/05-12:09:43.123 b4c Delete type=2 #1908
+2024/11/05-12:09:43.124 b4c Delete type=2 #1909
+2024/11/05-12:09:43.125 b4c Delete type=2 #1910
+2024/11/05-12:09:43.125 b4c Delete type=2 #1911
+2024/11/05-12:09:43.125 b4c Delete type=2 #1912
+2024/11/05-12:09:43.125 b4c Delete type=2 #1915
